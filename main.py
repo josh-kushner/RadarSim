@@ -17,7 +17,7 @@ class RadarSim(ShowBase):
         cm.setFrame(-100, 100, -100, 100)
         ground = self.render.attachNewNode(cm.generate())
         ground.setHpr(0, -90, 0)  # rotate to lie flat
-        grass_tex = self.loader.loadTexture("grass.png")  # replace with your texture
+        grass_tex = self.loader.loadTexture("assets/textures/grass.png")  # replace with your texture
         ts = TextureStage('ts')
         ground.setTexture(ts, grass_tex)
         ground.setTexScale(ts, 50, 50)  # tile texture
