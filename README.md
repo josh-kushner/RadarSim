@@ -48,7 +48,7 @@ A 3D interactive radar simulation built with **Panda3D** that demonstrates **Fre
 ```bash
 # Clone the repository
 git clone git@github.com:josh-kushner/RadarSim.git
-cd radarsim
+cd RadarSim
 
 # Install dependencies
 pip install -r requirements.txt
