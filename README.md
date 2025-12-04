@@ -7,6 +7,15 @@ A 3D interactive radar simulation built with **Panda3D** that demonstrates **Fre
 
 ---
 
+## Demo
+
+
+https://github.com/user-attachments/assets/7e6cc36c-2805-4c78-806e-3eb3209fafef
+
+
+
+---
+
 ## Features
 
 ### Interactive 3D Environment
